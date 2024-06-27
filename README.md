@@ -5,3 +5,5 @@
 ### [0x00-hello-dart](https://github.com/Qcarvalhooliveira/holbertonschool-web_dart/tree/main/0x00-hello-dart)
 
 ### [0x01-dart-function](https://github.com/Qcarvalhooliveira/holbertonschool-web_dart/tree/main/0x01-dart-function)
+
+### [0x02-dart-classes](https://github.com/Qcarvalhooliveira/holbertonschool-web_dart/tree/main/0x02-dart-classes)
