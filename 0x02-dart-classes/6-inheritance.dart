@@ -5,7 +5,7 @@ class User extends Password {
   String name;
   int age;
   double height;
-  String user_password = '';
+  String user_password;
 
   User({
     required this.id,
