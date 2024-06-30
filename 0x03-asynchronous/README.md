@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/Qcarvalhooliveira/holbertonschool-web_dart/blob/main/0x03-asynchronous/image/dart.png">
+</p>
 
 # **Dart - Asynchronous** :computer:
 
